@@ -1,0 +1,11 @@
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Derleme ve geçici dosyalar
+*.log
+*.tmp
+node_modules/
+
+# Gizli dosyalar
+.env
